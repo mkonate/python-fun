@@ -5,3 +5,4 @@ print(message)
 print(message_2)
 
 print('The lenght of the string "{}" is {}.'.format(message, len(message)))
+print('All Caps: {}'.format(message.upper()))
